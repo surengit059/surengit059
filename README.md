@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Surendra Challa</h1>
+<h1 align="center">Surendra Challa</h1>
 
 <h3 align="center">
 Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer
