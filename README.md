@@ -12,12 +12,10 @@ Aspiring Software Engineer | AI/ML Enthusiast | Full Stack Developer
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 💻 Passionate about Software Engineering & Full Stack Development
-- 🌱 Currently learning **Advanced DSA, Spring Boot, Laravel, AWS & Machine Learning**
-- 🚀 Building scalable web applications
-- 🧠 Solving problems on LeetCode & CodeChef
-- 📫 Reach me at **surendrachalla059@gmail.com**
+Computer Science undergraduate passionate about designing and developing scalable software solutions. My interests span Full Stack Development, Software Engineering, Cloud Computing, and AI/ML. I am currently enhancing my technical skills in Advanced Data Structures & Algorithms, Spring Boot, Laravel, AWS, and Machine Learning while actively building projects and solving coding problems on LeetCode and CodeChef.
+
+
+📫 Reach me at **surendrachalla059@gmail.com**
 
 ---
 
@@ -133,7 +131,7 @@ Student Activity Management System
 
 🔗 Repository
 
-https://github.com/surengit059/backend-clubconnect
+https://clubconnect-r70gwhsn2-2400030310s-projects.vercel.app
 
 ---
 
@@ -151,62 +149,6 @@ Achievement Tracking Platform
 
 https://github.com/surengit059/AchieveTrack
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=surengit059&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surengit059&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surengit059&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=surengit059&theme=tokyonight&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=surengit059&theme=tokyo-night"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=surengit059&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
